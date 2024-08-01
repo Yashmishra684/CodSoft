@@ -1,32 +1,4 @@
-// const questions = [
-//     {
-//         'que': 'Which of the following is a markup language?',
-//         'a': 'HTML',
-//         'b': 'CSS',
-//         'c': 'JS',
-//         'd': 'PHP',
-//         'correct': 'a',
-//     },
 
-//     {
-//         'que': 'In which year Javascript wad launched?',
-//         'a': '1996',
-//         'b': '1995',
-//         'c': '1994',
-//         'd': 'none of the above',
-//         'correct': 'b',
-//     },
-
-//     {
-//         'que': 'What does Css stand for?',
-//         'a': 'Colorful Styling Style',
-//         'b': 'Cascading Style Sheet',
-//         'c': 'Colorful Styling Sheet',
-//         'd': 'Color Styling Stlye',
-//         'correct': 'b',
-//     }
-
-// ]
 const questions = [
     {
         'que': 'What does HTML stand for?',
